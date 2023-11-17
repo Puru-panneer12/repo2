@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Terraface changes
+=======
+Ansible for CM
+>>>>>>> 739c3b0 (file 10 on local)
